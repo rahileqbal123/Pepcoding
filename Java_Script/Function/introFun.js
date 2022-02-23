@@ -9,4 +9,5 @@ sayHi([1,2,3,4,5,6]);
 sayHi("I am String");
 let rval = sayHi(10.2);
 console.log(rval);
+hiiiiii
 
